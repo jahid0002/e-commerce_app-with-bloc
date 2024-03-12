@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515172108240",
+    "project_id": "ecommarce-ea878",
+    "storage_bucket": "ecommarce-ea878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515172108240:android:f06e55bb7e3a63da0c5bd5",
+        "android_client_info": {
+          "package_name": "com.example.online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOI7TWrP5fZyOUGNF1X0NEPQh3LmDv1bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
